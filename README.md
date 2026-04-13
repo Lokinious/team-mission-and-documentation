@@ -2,6 +2,8 @@
 
 This repository is the shared documentation home for Caleb's Startup. It captures the mission, working principles, startup roadmap, repository plans, and supporting operational work that guide the team.
 
+Copilot running inside this repository will also pick up the repo-level **Dev Setup Agent** instructions from `AGENTS.md` to help with Windows-first onboarding and toolchain setup.
+
 ## Purpose
 - Align the team around what we are building and why
 - Keep startup planning visible and organized
@@ -15,6 +17,7 @@ This repository is the shared documentation home for Caleb's Startup. It capture
 - Cross-cutting support work such as standards, finance, legal, security, and release planning
 
 ## Documentation map
+- [`AGENTS.md`](AGENTS.md) - repo-level Dev Setup Agent instructions for Copilot
 - [`docs/README.md`](docs/README.md) - documentation index
 - [`docs/developer-setup.md`](docs/developer-setup.md) - Windows-first developer machine setup and onboarding
 - [`docs/mission-and-values.md`](docs/mission-and-values.md) - mission, values, and product direction
