@@ -1,6 +1,6 @@
 # Team Mission and Documentation
 
-This repository is the shared documentation home for Caleb's Startup. It captures the mission, working principles, startup roadmap, repository plans, and supporting operational work that guide the team.
+This repository is the shared documentation home for The Trio Startup. It captures the mission, working principles, startup roadmap, repository plans, and supporting operational work that guide the team.
 
 Copilot running inside this repository will also pick up the repo-level **Dev Setup Agent** instructions from `AGENTS.md` to help with Windows-first onboarding and toolchain setup.
 

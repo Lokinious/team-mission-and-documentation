@@ -1,7 +1,7 @@
 # Mission and Values
 
 ## Mission
-Build practical, creative, and sustainable game-related products, content, and tooling that Caleb's Startup can grow over time.
+Build practical, creative, and sustainable game-related products, content, and tooling that The Trio Startup can grow over time.
 
 ## What we are trying to build
 - A strong public-facing presence for reviews, updates, and projects

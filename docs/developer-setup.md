@@ -1,7 +1,7 @@
 # Developer Setup Guide
 
 ## Purpose
-This guide helps a new developer get a Windows machine ready to work with Caleb's Startup quickly, using the same core tooling baseline already set up for the project.
+This guide helps a new developer get a Windows machine ready to work with The Trio Startup quickly, using the same core tooling baseline already set up for the project.
 
 ## Recommended platform
 - Windows
