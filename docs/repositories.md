@@ -68,6 +68,23 @@ The startup portfolio is currently organized around a small set of focused repos
 - TypeScript
 - Manifest-driven install and update model
 
+## 6. `community-chat-platform`
+**Purpose:** private community platform for gamers to chat, hang out, and coordinate shared social sessions
+
+**Initial scope**
+- Accounts and controlled access
+- Browser-first text and voice chat
+- Community/server structure
+- Voice rooms
+- Shared watch-together and listen-together sessions
+- Moderation and admin basics
+
+**Recommended direction**
+- Browser-first web client
+- Real-time backend with auth and persistent chat data
+- WebRTC-based voice support
+- Legal external-provider integration for shared media sessions rather than self-hosted streaming
+
 ## Supporting repository
 ### `team-mission-and-documentation`
 **Purpose:** shared planning, mission, and operational documentation for the team

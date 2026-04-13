@@ -18,6 +18,7 @@ This roadmap assumes a solo-founder pace with realistic sequencing, limited para
 - Create `infrastructure`
 - Create `desktop-chess-game`
 - Create `desktop-launcher`
+- Create `community-chat-platform`
 - Add baseline CI, release, and security expectations
 
 ### Phase 3: First public presence and shared patterns
@@ -31,12 +32,15 @@ This roadmap assumes a solo-founder pace with realistic sequencing, limited para
 - Define backend and service direction
 - Define the chess networking architecture
 - Scaffold the launcher shell and install/update model
+- Define the account, text, voice, and shared-media direction for the community platform
 - Build the initial AWS and Terraform platform baseline
 
 ### Phase 5: Interactive prototypes
 - Build the Tauri launcher proof of concept
 - Build the Tauri chess prototype
 - Build the RPG Maker RZ chess proof of concept
+- Build the browser-first community chat foundation
+- Validate shared watch-together and listen-together coordination using approved external providers
 - Validate shared hosting and service assumptions
 
 ### Phase 6: Hardening and expansion
@@ -50,7 +54,7 @@ This roadmap assumes a solo-founder pace with realistic sequencing, limited para
 2. Repository creation and scaffolding
 3. `main-ui` and `agents`
 4. `infrastructure`
-5. `desktop-launcher` and `desktop-chess-game`
+5. `desktop-launcher`, `desktop-chess-game`, and `community-chat-platform`
 
 ## Practical note
 If capacity gets tight, the best way to preserve momentum is to finish `main-ui`, complete the first agent set, scaffold infrastructure, and prioritize the Tauri chess path before treating RPG Maker RZ as a parallel experiment.

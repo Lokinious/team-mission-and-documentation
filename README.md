@@ -32,6 +32,7 @@ Copilot running inside this repository will also pick up the repo-level **Dev Se
 3. `desktop-chess-game` - internet-connected desktop chess proof of concept using RPG Maker RZ and Tauri
 4. `infrastructure` - Terraform-first AWS infrastructure repository
 5. `desktop-launcher` - Windows-first launcher for installing, updating, and launching apps and games
+6. `community-chat-platform` - private community voice and text platform with browser-first access and shared hangout features
 
 ## Current planning stance
 - Build with a realistic solo-founder pace
