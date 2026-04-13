@@ -16,6 +16,7 @@ This repository is the shared documentation home for Caleb's Startup. It capture
 
 ## Documentation map
 - [`docs/README.md`](docs/README.md) - documentation index
+- [`docs/developer-setup.md`](docs/developer-setup.md) - Windows-first developer machine setup and onboarding
 - [`docs/mission-and-values.md`](docs/mission-and-values.md) - mission, values, and product direction
 - [`docs/working-agreements.md`](docs/working-agreements.md) - collaboration and delivery expectations
 - [`docs/roadmap.md`](docs/roadmap.md) - phased startup timeline and execution order

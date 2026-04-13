@@ -1,6 +1,7 @@
 # Documentation Index
 
 ## Core foundation
+- [`developer-setup.md`](developer-setup.md)
 - [`mission-and-values.md`](mission-and-values.md)
 - [`working-agreements.md`](working-agreements.md)
 
